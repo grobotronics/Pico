@@ -6,4 +6,4 @@ contact: support@grobotronics.com
 
 Find the necessary **PicoAutonomousRobotics** module on [Kitronik GitHub repository](https://github.com/KitronikLtd/Kitronik-Pico-Autonomous-Robotics-Platform-MicroPython/blob/main/PicoAutonomousRobotics.py).
 <br> <br> <br>
-Tutorial in Greek: 
+Tutorial in Greek: [Programming Kitronik's robot for Pico!](https://blog.grobotronics.com/?p=4022)
