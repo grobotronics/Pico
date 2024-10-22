@@ -1,6 +1,8 @@
-from time import sleep
+'''
+Delete "jumpStart=True" if PicoAutonomousRobotics module is fixed by removing the "not" operator from line 55
+'''
 
-# Delete "jumpStart=True" if PicoAutonomousRobotics library is fixed by removing the "not" operator from line 55
+from time import sleep
 
 class LineFollowing:
     def __init__(self, robot):
